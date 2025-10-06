@@ -12,4 +12,6 @@ De code illustreert hoe je type-veiligheid en herbruikbaarheid bereikt met gener
 
 ## Diagram
 Hieronder een visuele weergave van de werking van de stapel:
-()
+
+
+![image alt](https://github.com/kiranchaudry97/Oefening_op_Generieke_Collecties/blob/5318eb9a2eadc3ab358797260af164ea22031740/Oefening_op_Generieke_Collectie_screenshot/terminal_menu.png)
